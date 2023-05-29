@@ -15,4 +15,4 @@ Materi di pertemuan ke-duabelas yaitu <strong>Animation View</strong>
 ## Video Demonstrasi
 
 Link Video : 
-- Snake Game : [Belum Tersedia](https://drive.google.com/file/d/1Oudf-YtFvTeCa5yk7iBp8Z6cPVET9BMb/view?usp=sharing)
+- Snake Game : [Google Drive](https://drive.google.com/file/d/1Oudf-YtFvTeCa5yk7iBp8Z6cPVET9BMb/view?usp=sharing)
